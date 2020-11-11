@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Nissan Brand';
+	src: url(../../assets/fonts/NissanBrand-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/NissanBrand-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Nissan Brand';
+	src: url(../../assets/fonts/NissanBrand-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/NissanBrand-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
